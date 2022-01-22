@@ -11,12 +11,4 @@ def remove_spec_char():
 
 remove_spec_char()
 
-"""
-exampleStr = "Python is a general-purpose programming language."
 
-# Look for substring in source string
-if 'gene' in exampleStr:
-    print("Found! The string contains the phrase 'gene'.")
-else:
-    print("Didn't find the substring.")
-"""
